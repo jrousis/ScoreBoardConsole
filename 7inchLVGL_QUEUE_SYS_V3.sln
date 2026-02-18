@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7inchLVGL_QUEUE_SYS_V3", "7inchLVGL_QUEUE_SYS_V3.vcxproj", "{FD571C52-54DC-4474-9CD7-0DABE35CE52F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD571C52-54DC-4474-9CD7-0DABE35CE52F}.Debug|ARM.ActiveCfg = Debug|ARM
+		{FD571C52-54DC-4474-9CD7-0DABE35CE52F}.Debug|ARM.Build.0 = Debug|ARM
+		{FD571C52-54DC-4474-9CD7-0DABE35CE52F}.Debug|ARM.Deploy.0 = Debug|ARM
+		{FD571C52-54DC-4474-9CD7-0DABE35CE52F}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{FD571C52-54DC-4474-9CD7-0DABE35CE52F}.Debug|ARM64.Build.0 = Debug|ARM64
+		{FD571C52-54DC-4474-9CD7-0DABE35CE52F}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{FD571C52-54DC-4474-9CD7-0DABE35CE52F}.Release|ARM.ActiveCfg = Release|ARM
+		{FD571C52-54DC-4474-9CD7-0DABE35CE52F}.Release|ARM.Build.0 = Release|ARM
+		{FD571C52-54DC-4474-9CD7-0DABE35CE52F}.Release|ARM.Deploy.0 = Release|ARM
+		{FD571C52-54DC-4474-9CD7-0DABE35CE52F}.Release|ARM64.ActiveCfg = Release|ARM64
+		{FD571C52-54DC-4474-9CD7-0DABE35CE52F}.Release|ARM64.Build.0 = Release|ARM64
+		{FD571C52-54DC-4474-9CD7-0DABE35CE52F}.Release|ARM64.Deploy.0 = Release|ARM64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {853BE699-D35C-4995-952E-552DCFDD5786}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+SET(SOURCES ui_Screen1.c
+    ui_Screen2.c
+    ui.c
+    ui_comp_hook.c
+    ui_helpers.c
+    ui_events.cpp
+    ui_img_1188446250.c
+    ui_img_sett_png.c
+    ui_img_1269516485.c
+    ui_img_vb_logo_png.c
+    fonts/ui_font_ALLFONT14.c
+    fonts/ui_font_CanvaSans14.c
+    fonts/ui_font_CanvaSans20.c
+    fonts/ui_font_CanvaSans30.c
+    fonts/ui_font_CanvaSans48.c)
+
+add_library(ui ${SOURCES})
