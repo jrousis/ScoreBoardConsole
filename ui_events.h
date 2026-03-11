@@ -34,6 +34,7 @@ void CALLBACK_P20(lv_event_t * e);
 void CALLBACK_P21(lv_event_t * e);
 void CALLBACK_P23(lv_event_t * e);
 void CALLBACK_P22(lv_event_t * e);
+void CALLBACK_P24(lv_event_t * e);
 void CALLBACK_NEW_GAME(lv_event_t * e);
 void CB_buzzer(lv_event_t * e);
 void CALLBACK_EXIT(lv_event_t * e);

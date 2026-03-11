@@ -24,7 +24,7 @@ int CHK_Val_Func(void) {
 
 void CALLBACK_SAVE(lv_event_t* e) {
 	CHK_Flag = true;
-	CHK_Val = 25;
+	CHK_Val = 53;
 	// Your code here
 }
 
